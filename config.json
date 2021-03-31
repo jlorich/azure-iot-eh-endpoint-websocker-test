@@ -1,0 +1,7 @@
+{
+    "IoTHubHostName": "",
+    "IoTHubDeviceId": "",
+    "IoTHubDeviceKey": "",
+    "EventHubConnectionString": "",
+    "EventHubName": ""
+}
